@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryVariant">#00b2bc</color>
+    
+    <color name="colorPrimaryDespesa">#ff706a</color>
+    <color name="colorPrimaryDarkDespesa">#e66560</color>
+    <color name="colorAccentDespesa">#ff706a</color>
+
+    <color name="colorPrimaryReceita">#00d39e</color>
+    <color name="colorPrimaryDarkReceita">#00be8b</color>
+    <color name="colorAccentreceita">#00d39e</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

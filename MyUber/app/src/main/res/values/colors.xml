@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#37474f</color>
+    <color name="color_primaryDark">#263238</color>
+    <color name="outraCor">#546E7A</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="btnLogin">#1fbad6</color>
+    <color name="btnCadastro">#83838c</color>
+</resources>

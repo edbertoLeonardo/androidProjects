@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="splash_screen_title">Sobremesas</string>
+    <string name="title_select_image_action">Selecione a imagem</string>
+    <string name="lbl_camera">Câmera</string>
+    <string name="lbl_gallery">Galeria</string>
+</resources>
